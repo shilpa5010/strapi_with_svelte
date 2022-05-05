@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_button_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "text"
+    },
+    "label": {
+      "type": "string"
+    },
+    "target": {
+      "type": "enumeration",
+      "enum": [
+        "_blank"
+      ]
+    }
+  }
+}

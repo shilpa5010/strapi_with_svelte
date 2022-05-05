@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_set_of_icons_set_of_icons",
+  "info": {
+    "displayName": "set of icons",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "icon1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "icon2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "icon3": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title_for_icon1": {
+      "type": "string"
+    },
+    "title_for_icon2": {
+      "type": "string"
+    },
+    "title_for_icon3": {
+      "type": "string"
+    }
+  }
+}

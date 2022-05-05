@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Banner": {
+      "type": "component",
+      "repeatable": true,
+      "component": "banners.banner"
+    },
+    "Content": {
+      "type": "richtext"
+    },
+    "Publish": {
+      "type": "boolean"
+    }
+  }
+}

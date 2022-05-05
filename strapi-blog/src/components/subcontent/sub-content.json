@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_subcontent_sub_contents",
+  "info": {
+    "displayName": "Sub content",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    }
+  }
+}

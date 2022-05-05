@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_managedservices_managed_services",
+  "info": {
+    "displayName": "Managed Services",
+    "icon": "ambulance",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "managed_services_icons": {
+      "type": "component",
+      "repeatable": false,
+      "component": "set-of-icons.set-of-icons"
+    }
+  }
+}

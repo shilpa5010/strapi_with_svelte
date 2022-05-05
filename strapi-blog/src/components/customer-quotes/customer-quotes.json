@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_customer_quotes_customer_quotes",
+  "info": {
+    "displayName": "customer quotes",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "Quote": {
+      "type": "text"
+    },
+    "Read_more": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button.button"
+    }
+  }
+}

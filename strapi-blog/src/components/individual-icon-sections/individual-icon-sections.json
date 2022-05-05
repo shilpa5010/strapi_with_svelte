@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_individual_icon_sections_individual_icon_sections",
+  "info": {
+    "displayName": "Individual icon sections",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "content": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button.button"
+    }
+  }
+}
